@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Helmet>
-        <meta property="og:url" content="https://redeemtest.netlify.app/" />
+        <meta property="og:url" content="https://redeemreda.netlify.app/" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Redeem" />
         <meta
